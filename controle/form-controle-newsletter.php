@@ -1,5 +1,7 @@
 <?php
 
+header("Content-type: text/html; charset=utf-8");
+
 $email = $_POST['newsletter_email'];
 $mensagem = "Assinante: $email";
 $de = "no_reply@proxmeru.co.mz";

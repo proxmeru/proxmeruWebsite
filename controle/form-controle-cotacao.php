@@ -1,4 +1,7 @@
+
 <?php
+
+header("Content-type: text/html; charset=utf-8");
 
 $entidade = $_POST['cotacao_entidade'];
 $nomeComercial = $_POST['cotacao_nomeComercial'];

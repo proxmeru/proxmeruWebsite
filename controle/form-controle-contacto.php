@@ -1,5 +1,7 @@
 <?php
 
+header("Content-type: text/html; charset=utf-8");
+
 $nome = $_POST['contacto_nome'];
 $apelido = $_POST['contacto_apelido'];
 $email = $_POST['contacto_email'];
