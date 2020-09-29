@@ -2570,18 +2570,12 @@
                     <div class="col-md-12 mb-3">
                         <div class="card" style="border: none;">
                             <div class="card-body" style="padding: 0%">
-                                <h5 class="card-title">FUNCIONALIDADES</h5>
-                                <p class="card-text">
-                                    • Vendas<br>
-                                    • Faturamento<br>
-                                    • Inventário
-                                </p>
                                 <h5 class="card-title">DOWNLOAD</h5>
                                 <p class="card-text">
                                     <b>Tamanho da mídia:</b> 11 MB<br>
                                     <b>Servidor:</b> Google Drive<br>
                                     <b>Versão:</b> 1.0<br></p>
-                                <a href="#" role="button" class="btn btn-primary popover-test">Descarregar</a>
+                                <a href="https://drive.google.com/file/d/1ZdoHZO4At7OvkPPrL8xzl8WptQsxokmt/view?usp=sharing" target="_blank" role="button" class="btn btn-primary popover-test">Descarregar</a>
                             </div>
                         </div>
                     </div>
@@ -2667,7 +2661,7 @@
                                     <b>Servidor:</b> Google Drive<br>
                                     <b>Versão:</b> 1.0<br>
                                     <b>Sistema de instalação:</b> Cell game Setup 9</p>
-                                <a href="#" role="button" class="btn btn-primary popover-test">Descarregar</a>
+                                <a href="https://drive.google.com/file/d/1mWPkpKBAOrcB1VhFw5Yxv2oryauuu_-I/view?usp=sharing" target="_blank" role="button" class="btn btn-primary popover-test">Descarregar</a>
                             </div>
                         </div>
                     </div>
