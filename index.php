@@ -222,15 +222,12 @@
          style="background-color: #343a40; padding-left: 5%; padding-right: 5%; padding-top: 1.5%; text-align: justify;">
 
         <a href="http://www.facebook.com/proxmeru" target="_blank"><span class="fax fa fa-facebook fax-facebook"></span></a>
-        <a href="http://www.twitter.com/proxmeru" target="_blank"><span
-                    class="fax fa fa-twitter fax-twitter"></span></a>
-        <a href="http://www.facebook.com/proxmeru" target="_blank"><span class="fax fa fa-linkedin fax-linkedin"></span></a>
-        <a href="https://www.linkedin.com/in/carlos-maemo-a73444173/" target="_blank"><span
-                    class="fax fa fa-instagram fax-instagram"></span></a>
+        <a href="http://www.twitter.com/proxmeru" target="_blank"><span class="fax fa fa-twitter fax-twitter"></span></a>
+        <a href="https://www.linkedin.com/company/proxmeru/" target="_blank"><span class="fax fa fa-linkedin fax-linkedin"></span></a>
+        <a href="https://www.instagram.com/proxmeru/" target="_blank"><span class="fax fa fa-instagram fax-instagram"></span></a>
         <a href="skype:username?call"><span class="fax fa fa-skype fax-skype"></span></a>
         <a href="http://www.vimeo.com/proxmeru" target="_blank"><span class="fax fa fa-vimeo fax-vimeo"></span></a>
-        <a href="https://wa.me/message/4QE6XKJKWMAHA1" target="_blank">
-            <span class="fax fa fa-whatsapp fax-whatsapp"></span>
+        <a href="https://wa.me/message/4QE6XKJKWMAHA1" target="_blank"><span class="fax fa fa-whatsapp fax-whatsapp"></span>
         </a>
     </div>
 </div>
@@ -950,6 +947,38 @@
                 <!-- Funcionario 01 -->
                 <div class="col-md-6 mb-4">
                     <div class="card">
+                        <!--                        <img src="img/pessoas/AnaPaula.jpg" class="card-img-top" alt="..."-->
+                        <!--                             style="width: 100%; height: 100%">-->
+                        <div class="card-body">
+                            <h5 class="card-title">Ana Paula Américo</h5>
+                            <p class="card-text">Analista de mídias sociais</p>
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted">ana.paula@proxmeru.co.mz</small>
+                        </div>
+                    </div>
+                </div>
+                <!-- /Funcionario 01 -->
+                
+                <!-- Funcionario 02 -->
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <!--                        <img src="img/pessoas/AnaPaula.jpg" class="card-img-top" alt="..."-->
+                        <!--                             style="width: 100%; height: 100%">-->
+                        <div class="card-body">
+                            <h5 class="card-title">Engª. Dinasce Marcos</h5>
+                            <p class="card-text">Programadora</p>
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted">dinasce.marcos@gmail.com</small>
+                        </div>
+                    </div>
+                </div>
+                <!-- /Funcionario 02 -->
+                
+                <!-- Funcionario 03 -->
+                <div class="col-md-6 mb-4">
+                    <div class="card">
                         <!--                        <img src="img/pessoas/CarlosMaemo.jpg" class="card-img-top" alt="..."-->
                         <!--                             style="width: 100%; height: 100%">-->
                         <div class="card-body">
@@ -961,9 +990,26 @@
                         </div>
                     </div>
                 </div>
-                <!-- /Funcionario 01 -->
+                <!-- /Funcionario 03 -->
 
-                <!-- Funcionario 02 -->
+
+                <!-- Funcionario 04 -->
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <!--                        <img src="img/pessoas/AnaPaula.jpg" class="card-img-top" alt="..."-->
+                        <!--                             style="width: 100%; height: 100%">-->
+                        <div class="card-body">
+                            <h5 class="card-title">Engª. Denisse Torcida</h5>
+                            <p class="card-text">Programadora</p>
+                        </div>
+                        <div class="card-footer">
+                            <small class="text-muted">denissafonso@gmail.com</small>
+                        </div>
+                    </div>
+                </div>
+                <!-- /Funcionario 04 -->
+
+                <!-- Funcionario 05 -->
                 <div class="col-md-6 mb-4">
                     <div class="card">
                         <!--                        <img src="img/pessoas/EddieSousa.jpg" class="card-img-top" alt="..."-->
@@ -977,25 +1023,9 @@
                         </div>
                     </div>
                 </div>
-                <!-- /Funcionario 02 -->
+                <!-- /Funcionario 05 -->
 
-                <!-- Funcionario 03 -->
-                <div class="col-md-6 mb-4">
-                    <div class="card">
-                        <!--                        <img src="img/pessoas/AnaPaula.jpg" class="card-img-top" alt="..."-->
-                        <!--                             style="width: 100%; height: 100%">-->
-                        <div class="card-body">
-                            <h5 class="card-title">Ana Paula Américo</h5>
-                            <p class="card-text">Analista de mídias sociais</p>
-                        </div>
-                        <div class="card-footer">
-                            <small class="text-muted">ana.paula@proxmeru.co.mz</small>
-                        </div>
-                    </div>
-                </div>
-                <!-- /Funcionario 03 -->
-                
-                <!-- Funcionario 04 -->
+                <!-- Funcionario 06 -->
                 <div class="col-md-6 mb-4">
                     <div class="card">
                         <!--                        <img src="img/pessoas/NelsonDomingos.jpg" class="card-img-top" alt="..."-->
@@ -1009,7 +1039,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- /Funcionario 04 -->
+                <!-- /Funcionario 06 -->
             </div>
 
 
@@ -1043,7 +1073,7 @@
                     </a>
                     &nbsp;
                     <!--Linkedin -->
-                    <a href="https://www.linkedin.com/in/carlos-maemo-a73444173/" target="_blank" style="color: #fff;text-decoration: none;">
+                    <a href="https://www.linkedin.com/company/proxmeru/" target="_blank" style="color: #fff;text-decoration: none;">
                         <span class="fa fa-linkedin white-text"></span>
                     </a>
                     &nbsp;
