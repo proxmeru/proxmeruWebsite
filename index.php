@@ -150,6 +150,7 @@
             </li>
             <li><a class="nav-link" href="mailto:suporte@proxmeru.co.mz"><span class="fa fa-envelope-o"></span>
                     suporte@proxmeru.co.mz</a></li>
+                    <button class="btn btn-danger navbar-btn">Button</button>
         </ul>
     </div>
 </nav>
