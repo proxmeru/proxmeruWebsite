@@ -142,6 +142,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="#sessao5">Contactos</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#sessao6">Blog</a>
+            </li>
 
         </ul>
         <ul class="nav navbar-nav navbar-right">
@@ -1034,26 +1037,29 @@
 
 <!-- SESSÃO: BLOG -->
 <div id="sessao6"
-     style="background-color: #fff;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
+     style="background-color: #343a40;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
 
-    <h5 class="card-title" style="font-weight: bold; font-size: calc(13px + 2vw);">PROXMERU BLOG</h5>
+    <h5 class="card-title" style="font-weight: bold; font-size: calc(13px + 2vw);color: #fff">PROXMERU BLOG</h5>
 
-    <div class="row row-cols-1 row-cols-md-4" style="margin-top: 20px">
+    <div class="row row-cols-1 row-cols-md-2" style="margin-top: 20px">
 
         <!-- Post 01 -->
         <div class="col mb-4">
             <div class="card bg-dark text-white"
                  style="background: url('img/servicos/fundos/pxm-servicos-01.jpg') no-repeat center center;opacity: 0.8;width: 100%; height: 100%; background-size: cover; overflow: hidden;">
-                <div class="card-header" style="background-color: rgba(0,0,0,.5);font-size: 20px; font-weight: bold">
-                    Aplicações Web
+                <div class="card-header" style="background-color: rgba(0,0,0,.5);font-weight: bold">
+                <span class="fa fa-user"></span>&nbsp; Por Carlos Maemo
                 </div>
                 <div class="card-body">
-                    <p class="card-text">Desenvolvemos aplicações Web para gestão e controle ou para posicionar seus
-                        negócios na web.</p>
+    <h5 class="card-title">Como configurar Joystick de PS3/PS4 no PC</h5>
+                    <p class="card-text">Aprenda a configurar o Joystick de PS3/PS4 no PC usando o programa "SCP Toolkit 1.6".</p>
 
                 </div>
+                <div class="card-footer text-muted">
+                <span class="fa fa-calendar"></span> 2 dias atrás &nbsp; <span class="fa fa-comment"></span> 2 comentários &nbsp; <span class="fa fa-eye"></span> 3.700 mil visualizações
+  </div>
                 <div class="card-footer" style="background-color: rgba(0,0,0,.5)">
-                    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#modal-servico-01">Ler
+                    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#modal-blog-01">Ler
                         mais</a>
                 </div>
 
@@ -1071,7 +1077,7 @@
 <!-- RODAPÉ -->
 <footer class="page-footer font-small" style="background-color: #aaa; color: #000;">
 
-    <div style="background-color: #343a40;padding-right: 5%;padding-left: 5%;">
+    <div style="background-color: #777;padding-right: 5%;padding-left: 5%;">
         <div>
             <div class="row py-4 d-flex align-items-center">
 
@@ -2647,6 +2653,92 @@
         <div class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title" id="exampleModalLabel">Jogo eletrônico</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" style="padding-bottom: 0%;">
+                <h3 style="padding-bottom: 5px">Time Machine™</h3>
+
+                <div class="row row-cols-md-2 row-cols-md-2">
+                    <div class="col-md-4 mb-3">
+
+                        <div class="card">
+                            <div class="card-body" style="padding: 0%">
+                                <img src="img/trabalhos/pxm-trabalho-titulo-06.jpg" class="rounded img-fluid"
+                                     style="width: 100%" alt="Time Machine™">
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-8 mb-3">
+                        <div class="card" style="height: 100%;">
+                            <div class="card-body">
+                                <h5 class="card-title">SOBRE</h5>
+                                <p class="card-text">Time Machine™ é um jogo eletrônico de Top-down Shooter produzido
+                                    pela empresa Cell game e distribuído pela Cell game
+                                    Project para Microsoft
+                                    Windows (PC). É o primeiro jogo da série Time Machine. O jogo foi anunciado em 20 de
+                                    setembro de 2018 com
+                                    um trailer de revelação em 28 de agosto de 2018. O jogo foi lançado mundialmente em
+                                    10 de julho de 2019.</p>
+                                <p class="card-text">
+                                    <b>Desenvolvedora:</b> Cell game<br>
+                                    <b>Publicadora:</b> Cell game Project<br>
+                                    <b>Motor de desenvolvimento:</b> Unity<br>
+                                    <b>Idioma:</b> Português, English, Japonês (日本人)<br>
+                                    <b>Plataforma:</b> Microsoft Windows (PC)<br>
+                                    <b>Data de lançamento:</b> 10 de julho de 2019<br>
+                                    <b>Género:</b> Top-down Shooter<br>
+                                    <b>Modos de jogo:</b> Um jogador
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="row row-cols-md-2 row-cols-md-2">
+                    <div class="col-md-12 mb-3">
+                        <div class="card" style="border: none;">
+                            <div class="card-body" style="padding: 0%">
+                                <h5 class="card-title">SINOPSE</h5>
+                                <p class="card-text">Time Machine™ tem como foco às ações de um Cyber Cyan Soldier
+                                    enviado
+                                    do futuro, 565 anos antes de um incidente que aconteceu no dia 1 de janeiro de 2018.
+                                    A
+                                    Top-down Shooter retrata batalhas em Constantinopla.</p>
+                                <h5 class="card-title">DOWNLOAD</h5>
+                                <p class="card-text">
+                                    <b>Tamanho da mídia:</b> 179 MB<br>
+                                    <b>Servidor:</b> Google Drive<br>
+                                    <b>Versão:</b> 1.0<br>
+                                    <b>Sistema de instalação:</b> Cell game Setup 9</p>
+                                <a href="https://drive.google.com/file/d/1mWPkpKBAOrcB1VhFw5Yxv2oryauuu_-I/view?usp=sharing" target="_blank" role="button" class="btn btn-primary popover-test">Descarregar</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                <a href="mailto:suporte@proxmeru.co.mz?subject=Pedido%20de%20cotação%20|%20Time%20Machine"
+                   role="button" class="btn btn-primary">Pedir cotação</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- MODAL: BLOG 01 -->
+<div class="modal fade" id="modal-blog-01" tabindex="-1" role="dialog" data-backdrop="static"
+     aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Como configurar Joystick de PS3/PS4 no PC</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
