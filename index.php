@@ -1009,22 +1009,6 @@
                 </div>
                 <!-- /Funcionario 04 -->
 
-                <!-- Funcionario 05 -->
-                <div class="col-md-6 mb-4">
-                    <div class="card">
-                        <!--                        <img src="img/pessoas/EddieSousa.jpg" class="card-img-top" alt="..."-->
-                        <!--                             style="width: 100%; height: 100%">-->
-                        <div class="card-body">
-                            <h5 class="card-title">Eddie de Sousa</h5>
-                            <p class="card-text">Técnico de Informática</p>
-                        </div>
-                        <div class="card-footer">
-                            <small class="text-muted">eddie.sousa@proxmeru.co.mz</small>
-                        </div>
-                    </div>
-                </div>
-                <!-- /Funcionario 05 -->
-
                 <!-- Funcionario 06 -->
                 <div class="col-md-6 mb-4">
                     <div class="card">
@@ -1044,6 +1028,40 @@
 
 
         </div>
+    </div>
+
+</div>
+
+<!-- SESSÃO: BLOG -->
+<div id="sessao6"
+     style="background-color: #fff;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
+
+    <h5 class="card-title" style="font-weight: bold; font-size: calc(13px + 2vw);">PROXMERU BLOG</h5>
+
+    <div class="row row-cols-1 row-cols-md-4" style="margin-top: 20px">
+
+        <!-- Post 01 -->
+        <div class="col mb-4">
+            <div class="card bg-dark text-white"
+                 style="background: url('img/servicos/fundos/pxm-servicos-01.jpg') no-repeat center center;opacity: 0.8;width: 100%; height: 100%; background-size: cover; overflow: hidden;">
+                <div class="card-header" style="background-color: rgba(0,0,0,.5);font-size: 20px; font-weight: bold">
+                    Aplicações Web
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Desenvolvemos aplicações Web para gestão e controle ou para posicionar seus
+                        negócios na web.</p>
+
+                </div>
+                <div class="card-footer" style="background-color: rgba(0,0,0,.5)">
+                    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#modal-servico-01">Ler
+                        mais</a>
+                </div>
+
+            </div>
+        </div>
+        <!-- /Post 01 -->
+
+        
     </div>
 
 </div>
