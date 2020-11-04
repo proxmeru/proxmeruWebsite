@@ -966,7 +966,7 @@
                         <!--                        <img src="img/pessoas/AnaPaula.jpg" class="card-img-top" alt="..."-->
                         <!--                             style="width: 100%; height: 100%">-->
                         <div class="card-body">
-                            <h5 class="card-title">Engª. Dinasce Marcos</h5>
+                            <h5 class="card-title">Engª. Almeida, Dinasce</h5>
                             <p class="card-text">Programadora</p>
                         </div>
                         <div class="card-footer">
@@ -999,7 +999,7 @@
                         <!--                        <img src="img/pessoas/AnaPaula.jpg" class="card-img-top" alt="..."-->
                         <!--                             style="width: 100%; height: 100%">-->
                         <div class="card-body">
-                            <h5 class="card-title">Engª. Denisse Torcida</h5>
+                            <h5 class="card-title">Engª. Torcida, Denisse</h5>
                             <p class="card-text">Programadora</p>
                         </div>
                         <div class="card-footer">
