@@ -1023,18 +1023,6 @@
             </div>
             <!-- /Post 01 -->
 
-<<<<<<< HEAD
-                </div>
-                <div class="card-footer text-muted">
-                <span class="fa fa-calendar"></span> 19/12/2019 &nbsp; <span class="fa fa-comment"></span> 21 comentários &nbsp; <span class="fa fa-eye"></span> 3.345 mil visualizações
-  </div>
-                <div class="card-footer" style="background-color: rgba(0,0,0,.5)">
-                    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#modal-blog-01">Ler
-                        mais</a>
-                </div>
-=======
->>>>>>> f8667d55192b38929a27517eee506ff2f923bc49
-
         </div>
 
     </div>
