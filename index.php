@@ -1002,7 +1002,7 @@
 
             <!-- Post 01 -->
             <div class="col mb-4">
-                <div class="card bg-dark text-white" style="background: url('img/servicos/fundos/pxm-servicos-01.jpg') no-repeat center center;opacity: 0.8;width: 100%; height: 100%; background-size: cover; overflow: hidden;">
+                <div class="card bg-dark text-white" style="background: url('img/blog/carlos_maemo/post01.jpg') no-repeat center center;opacity: 0.8;width: 100%; height: 100%; background-size: cover; overflow: hidden;">
                     <div class="card-header" style="background-color: rgba(0,0,0,.5);font-weight: bold">
                         <span class="fa fa-user"></span>&nbsp; Por Carlos Maemo
                     </div>
