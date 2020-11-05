@@ -130,22 +130,22 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#sessao1">Quem somos</a>
+                    <a class="nav-link" href="#quem_somos">Quem somos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#sessao2">Oque fazemos</a>
+                    <a class="nav-link" href="#oque_fazemos">Oque fazemos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#sessao3">Trabalhos feitos</a>
+                    <a class="nav-link" href="#trabalhos">Trabalhos feitos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#sessao4">Nossos clientes</a>
+                    <a class="nav-link" href="#clientes">Nossos clientes</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#sessao5">Contactos</a>
+                    <a class="nav-link" href="#contactos">Contactos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#sessao6">Blog</a>
+                    <a class="nav-link" href="#blog">Blog</a>
                 </li>
 
             </ul>
@@ -170,7 +170,7 @@
                     <hr class="my-4" style="border-color: #999">
                     <p style="color: #fff">Somos uma empresa especializada em desenvolver soluções tecnológicas sob
                         encomenda.</p>
-                    <a class="btn btn-primary btn-lg" href="#sessao5" role="button">Contacte-nos</a>
+                    <a class="btn btn-primary btn-lg" href="#contactos" role="button">Contacte-nos</a>
                 </div>
             </div>
 
@@ -178,7 +178,7 @@
     </div>
 
     <!-- SESSÃO: SOBRE NÓS -->
-    <div id="sessao1" class="card" style="margin-top: -32px; scroll-margin-top: 3rem; border: 0px; color: #fff">
+    <div id="quem_somos" class="card" style="margin-top: -32px; scroll-margin-top: 3rem; border: 0px; color: #fff">
         <div class="card-body" style="background-color: #343a40; padding-top: 25px; padding-left: 5%; padding-right: 5%">
             <h5 class="card-title" style="font-size: calc(13px + 1vw); ">OLÁ,</h5>
             <h5 class="card-title" style="font-weight: bold; font-size: calc(13px + 2vw)">SOMOS SEUS DESENVOLVEDORES</h5>
@@ -234,7 +234,7 @@
     </div>
 
     <!-- SESSÃO: SERVIÇOS -->
-    <div id="sessao2" style="background-color: #fff;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
+    <div id="oque_fazemos" style="background-color: #fff;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
 
         <h5 class="card-title" style="font-weight: bold; font-size: calc(13px + 2vw);">NOSSOS SERVIÇOS</h5>
 
@@ -502,7 +502,7 @@
     </div>
 
     <!-- SESSÃO: TRABALHOS -->
-    <div id="sessao3" style="background-color: #fff;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
+    <div id="trabalhos" style="background-color: #fff;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
 
         <h5 class="card-title" style="font-weight: bold; font-size: calc(13px + 2vw);color: #000">ALGUNS DOS NOSSOS
             TRABALHO</h5>
@@ -618,7 +618,7 @@
     </div>
 
     <!-- SESSÃO: CLIENTES -->
-    <div id="sessao4" style="background-color: #343a40;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
+    <div id="clientes" style="background-color: #343a40;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
 
         <h5 class="card-title" style="font-weight: bold; font-size: calc(13px + 2vw);color: #fff">NOSSOS CLIENTES</h5>
 
@@ -674,7 +674,7 @@
     </div>
 
     <!-- SESSÃO: CONTACTOS -->
-    <div id="sessao5" style="background-color: #fff;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
+    <div id="contactos" style="background-color: #fff;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
         <h5 class="card-title" style="font-weight: bold; font-size: calc(13px + 2vw);">CONTACTOS</h5>
         <div class="form-row">
             <div class="col-md-6 mb-6" style="">
@@ -994,7 +994,7 @@
     </div>
 
     <!-- SESSÃO: BLOG -->
-    <div id="sessao6" style="background-color: #343a40;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
+    <div id="blog" style="background-color: #343a40;scroll-margin-top: 3rem;padding-top: 25px; padding-left: 5%; padding-right: 5%;">
 
         <h5 class="card-title" style="font-weight: bold; font-size: calc(13px + 2vw);color: #fff">PROXMERU BLOG</h5>
 
@@ -1115,16 +1115,16 @@
                     <h6 class="text-uppercase font-weight-bold">LINKS ÚTEIS</h6>
                     <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                     <p>
-                        <a href="#sessao1" style="text-decoration: none;color: #000">Quem somos</a>
+                        <a href="#quem_somos" style="text-decoration: none;color: #000">Quem somos</a>
                     </p>
                     <p>
-                        <a href="#sessao2" style="text-decoration: none;color: #000">Oque fazemos</a>
+                        <a href="#oque_fazemos" style="text-decoration: none;color: #000">Oque fazemos</a>
                     </p>
                     <p>
-                        <a href="#sessao3" style="text-decoration: none;color: #000">Trabalhos feitos</a>
+                        <a href="#trabalhos" style="text-decoration: none;color: #000">Trabalhos feitos</a>
                     </p>
                     <p>
-                        <a href="#sessao4" style="text-decoration: none;color: #000">Nossos clientes</a>
+                        <a href="#clientes" style="text-decoration: none;color: #000">Nossos clientes</a>
                     </p>
 
                 </div>
