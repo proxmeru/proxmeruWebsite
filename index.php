@@ -1056,7 +1056,7 @@
 
                 </div>
                 <div class="card-footer text-muted">
-                <span class="fa fa-calendar"></span> 2 dias atrás &nbsp; <span class="fa fa-comment"></span> 2 comentários &nbsp; <span class="fa fa-eye"></span> 3.700 mil visualizações
+                <span class="fa fa-calendar"></span> 19/12/2019 &nbsp; <span class="fa fa-comment"></span> 21 comentários &nbsp; <span class="fa fa-eye"></span> 3.345 mil visualizações
   </div>
                 <div class="card-footer" style="background-color: rgba(0,0,0,.5)">
                     <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#modal-blog-01">Ler
