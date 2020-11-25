@@ -627,24 +627,74 @@
 
             <!-- Cliente 01 -->
             <div class="col mb-4">
-                <div class="card text-white" style="border-color: hotpink;">
-                    <div class="card-body">
-                        <img src="img/clientes/SaboresDaPetala.png" class="card-img-top" alt="..." style="border: 1px solid hotpink;">
-
+            <div class="card text-white" style="border-color: #007bff;">
+                    <div class="card-body" style="padding: 0px">
+                        <img src="img/clientes/SaboresDaPetala.png" class="card-img-top" alt="Sabores da Petala">
                     </div>
                 </div>
             </div>
             <!-- /Cliente 01 -->
 
-            <!-- Cliente 01 -->
+            <!-- Cliente 02 -->
             <div class="col mb-4">
-                <div class="card text-white" style="border-color: gold;">
-                    <div class="card-body">
-                        <img src="img/clientes/ObaxCabelos.png" class="card-img-top" alt="..." style="border: 1px solid gold;">
+            <div class="card text-white" style="border-color: #007bff;">
+                    <div class="card-body" style="padding: 0px">
+                        <img src="img/clientes/ObaxCabelos.png" class="card-img-top" alt="Obax Cabelos">
                     </div>
                 </div>
             </div>
-            <!-- /Cliente 01 -->
+            <!-- /Cliente 02 -->
+
+            <!-- Cliente 03 -->
+            <div class="col mb-4">
+            <div class="card text-white" style="border-color: #007bff;">
+                    <div class="card-body" style="padding: 0px">
+                        <img src="img/clientes/CentroMedicoEmbondeiro.png" class="card-img-top" alt="Centro Médico Embondeiro, Lda.">
+                    </div>
+                </div>
+            </div>
+            <!-- /Cliente 03 -->
+
+            <!-- Cliente 04 -->
+            <div class="col mb-4">
+            <div class="card text-white" style="border-color: #007bff;">
+                    <div class="card-body" style="padding: 0px">
+                        <img src="img/clientes/CatMoz.png" class="card-img-top" alt="Cat Moz, Lda">
+                    </div>
+                </div>
+            </div>
+            <!-- /Cliente 04 -->
+            
+            <!-- Cliente 05 -->
+            <div class="col mb-4">
+            <div class="card text-white" style="border-color: #007bff;">
+                    <div class="card-body" style="padding: 0px">
+                        <img src="img/clientes/WaterPump.png" class="card-img-top" alt="Water Pump Soluction">
+                    </div>
+                </div>
+            </div>
+            <!-- /Cliente 05 -->
+            
+            <!-- Cliente 06 -->
+            <div class="col mb-4">
+            <div class="card text-white" style="border-color: #007bff;">
+                    <div class="card-body" style="padding: 0px">
+                        <img src="img/clientes/BestContas.png" class="card-img-top" alt="Best Contas, E.I">
+                    </div>
+                </div>
+            </div>
+            <!-- /Cliente 06 -->
+
+            <!-- Cliente 07 -->
+            <div class="col mb-4">
+            <div class="card text-white" style="border-color: #007bff;">
+                    <div class="card-body" style="padding: 0px">
+                        <img src="img/clientes/HFAccounts.png" class="card-img-top" alt="HF Accounts, E.I">
+                    </div>
+                </div>
+            </div>
+            <!-- /Cliente 07 -->
+
         </div>
 
         <h5 class="card-title" style="font-size: calc(13px + 1vw); color: #fff;">OQUE AS PESSOAS DIZEM?</h5>
