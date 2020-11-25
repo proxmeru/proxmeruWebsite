@@ -695,6 +695,16 @@
             </div>
             <!-- /Cliente 07 -->
 
+            <!-- Cliente 08 -->
+            <div class="col mb-4">
+            <div class="card text-white" style="border-color: #007bff;">
+                    <div class="card-body" style="padding: 0px">
+                        <img src="img/clientes/EliProsp.png" class="card-img-top" alt="Elite Prospectors, Lda">
+                    </div>
+                </div>
+            </div>
+            <!-- /Cliente 08 -->
+
         </div>
 
         <h5 class="card-title" style="font-size: calc(13px + 1vw); color: #fff;">OQUE AS PESSOAS DIZEM?</h5>
