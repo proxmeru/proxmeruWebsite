@@ -32,7 +32,7 @@ foreach ($servico as $valores){
 
 $mensagem = "Requisitante: $nome $apelido\nEmpresa: $nomeComercial\nTelefone: $telefone\nEndereço: $endereco\nGrau de urgência do Projecto: $grau\nServiço(s):$servicos\nDescrição: $descricao";
 
-$destinatario = "suporte@proxmeru.co.mz";
+$destinatario = "suporte@proxmeru.com";
 $assunto = "Pedido de Cotação | $nomeTitulo";
 $cabecalho = "From: $email \r\n";
 $cabecalho .= "Reply-To: $email \r\n";

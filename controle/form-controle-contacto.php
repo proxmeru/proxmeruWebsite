@@ -7,7 +7,7 @@ $apelido = $_POST['contacto_apelido'];
 $email = $_POST['contacto_email'];
 $mensagem = $_POST['contacto_mensagem'];
 
-$destinatario = "suporte@proxmeru.co.mz";
+$destinatario = "suporte@proxmeru.com";
 $assunto = "Fale Conosco | $nome $apelido";
 $cabecalho = "From: $email \r\n";
 $cabecalho .= "Reply-To: $email \r\n";
